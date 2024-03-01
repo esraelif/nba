@@ -5,24 +5,8 @@
     background-color: rgb(242, 242, 93);
 }
 
-.logo {
-    height: 80px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: 100px;
-}
 
-input {
-    padding: 10px;
-    background-color: white;
-    border: 3px solid blue;
-    width: 100%;
-    /* Arama çubuğunun genişliğini ayarla */
-    max-width: 650px;
-    /* Maksimum genişlik belirle */
-}
+
 
 form {
     display: flex;

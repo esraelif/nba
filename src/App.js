@@ -1,15 +1,15 @@
-
-import './App.css';
-import "bootstrap/dist/css/bootstrap.min.css";
-import Header from './components/Header';
-import CardContainer from './components/CardContainer';
+import React from "react";
+import Header from "./components/Header";
+import { Container } from "react-bootstrap";
+import CardContainer from "./components/CardContainer";
 
 function App() {
   return (
-    <div className="App">
+    <Container className="text-center mt-4">
       <Header />
+
       <CardContainer />
-    </div>
+    </Container>
   );
 }
 
