@@ -1,3 +1,6 @@
+![NBA_Player](https://github.com/esraelif/nba/blob/main/src/Assets.js/nba%20(1).gif)
+NBA Player Cards
+Welcome to NBA Player Cards, the ultimate online hub for basketball enthusiasts and collectors. Our website showcases detailed cards of NBA players, featuring comprehensive stats, career highlights, and personal achievements. Whether you're looking to learn more about your favorite players, track their season performance, or delve into historical data, NBA Player Cards offers a visually engaging and informative experience. Browse through our extensive collection, discover rising stars, and relive the glory of legendary athletes. Perfect for fans, collectors, and anyone passionate about the game, NBA Player Cards is your go-to resource for all things NBA.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
